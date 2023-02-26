@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using static UnityEditor.Progress;
 
@@ -12,12 +13,14 @@ public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager Instance;
     public List<Item> Items = new List<Item>();
-
     public Transform ItemContent;
     public GameObject InventoryItem;
     public int point;
     int points;
     [SerializeField] TextMeshProUGUI tmpscore;
+    [SerializeField] TextMeshProUGUI tmpscore1;
+
+
     public float timeRemaining = 10;
 
 
@@ -59,11 +62,15 @@ public class InventoryManager : MonoBehaviour
     }
     private void Update()
     {
-        if (points > 4)
+        if (points > 30)
         {
 
             timeRemaining -= Time.deltaTime;
-            if
+            tmpscore1.text = "Tebrikler! Baþarýlý bir þekilde deprem çantasýný oluþturmayý baþardýn.";
+            if (timeRemaining < 1)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+            }
         }
     }
 
