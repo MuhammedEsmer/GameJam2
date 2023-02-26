@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "( Afet an\u0131nda kullan\u0131m\u0131 \xE7ok de\u011Ferli olan cep
     telefonu vb. cihazlar\u0131n \u015Farj edilmesini sa\u011Flar.) "
   value: 1
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: d787b63efb4d6514c9d33966b4f924a4, type: 3}

@@ -16,4 +16,4 @@ MonoBehaviour:
   itemName: "\u0130lk yard\u0131m \xE7antas\u0131"
   itemInfo: 
   value: 3
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: a7e9b21c762c62446804d848216720ed, type: 3}

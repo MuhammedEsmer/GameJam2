@@ -16,4 +16,4 @@ MonoBehaviour:
   itemName: "Kad\u0131n Pedi"
   itemInfo: "( Ki\u015Fisel temizlikte \xF6nemli bir hijyen \xFCr\xFCn\xFC.)"
   value: 2
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 01739bcfe392e6a4a9597d8cd7ac6935, type: 3}

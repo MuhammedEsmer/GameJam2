@@ -16,4 +16,4 @@ MonoBehaviour:
   itemName: "\xD6nemli D\xF6k\xFCmanlar"
   itemInfo: "\xD6nemli D\xF6k\xFCmanlar"
   value: 1
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 0386f18fb8fce5544a069ddfca5f93e8, type: 3}
