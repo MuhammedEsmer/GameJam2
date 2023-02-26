@@ -18,7 +18,7 @@ public class MousePosition3D : MonoBehaviour
         dialogimage.SetActive(true);
         iteminfo = item.itemInfo;
         itemname = item.itemName;
-        textComponent.text= itemname + iteminfo;
+        textComponent.text= itemname + ":                                                       " + iteminfo;
         
     }
  
