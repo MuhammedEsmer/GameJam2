@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "(Afet b\xF6lgesinde temel ihtiya\xE7lar\u0131 kar\u015F\u0131layabilmek
     ad\u0131na gerekli olabilir. )"
   value: 1
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: eec1005f86ab5774299e6705e4921c1f, type: 3}

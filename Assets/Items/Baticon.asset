@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "( Yaralanma durumlar\u0131na ilk yard\u0131m i\xE7in ve bakteri \xFCrememesi
     i\xE7in kullan\u0131l\u0131r)"
   value: 3
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: e7a8dff6e0b25654b9ac1a7272f708f6, type: 3}

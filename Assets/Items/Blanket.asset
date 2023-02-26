@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "(Acil durumlarda en kolay \u015Fekilde \u0131s\u0131 izolasyonu sa\u011Flayabilecek
     pratik e\u015Fya.) "
   value: 2
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 1af2d405cae3a08419296e261deb45c4, type: 3}

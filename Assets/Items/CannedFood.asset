@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "( Afet alan\u0131nda arama kurtarma ekipleri ve yard\u0131mlar ula\u015Fana
     kadar kullan\u0131labilecek en iyi erzak se\xE7imlerinden biri.) "
   value: 3
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 1c464743387d0cc48b2b77a423f3b1f3, type: 3}

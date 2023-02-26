@@ -16,4 +16,4 @@ MonoBehaviour:
   itemName: "Kuruyemi\u015F"
   itemInfo: "(y\xFCksek kalorili ve besleyici besin)"
   value: 2
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: d59848e439cc7404992e279c038a6cf0, type: 3}

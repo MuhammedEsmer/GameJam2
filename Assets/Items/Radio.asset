@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "( Haber ve olaylara kar\u015F\u0131 eri\u015Fim olmad\u0131\u011F\u0131nda,
     geli\u015Fmelerden haberdar olabilmek i\xE7in gerekli olabilir)"
   value: 1
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 19fa94024db67a043b892f42fb624944, type: 3}

@@ -17,4 +17,4 @@ MonoBehaviour:
   itemInfo: "(\u015Fekerli ve vitaminli olmas\u0131 a\xE7\u0131s\u0131ndan \xF6nem
     arz eden ve haz\u0131r bir \u015Fekilde t\xFCketilebilir s\u0131v\u0131 g\u0131da.)"
   value: 2
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 1116bf06ef2d5a74388843c185b1a29e, type: 3}

@@ -16,4 +16,4 @@ MonoBehaviour:
   itemName: "Di\u015F Macunu"
   itemInfo: "( Ki\u015Fisel temizlikte \xF6nemli bir hijyen \xFCr\xFCn\xFC.)"
   value: 1
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: f0be3f992b8fb624988e1747f18b3b14, type: 3}
