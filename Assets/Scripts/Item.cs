@@ -11,12 +11,5 @@ public class Item : ScriptableObject
 
     public int GetItem()
     { return value; }
-    public string itemdesc()
-    {
-        return itemInfo;
-    }
-    public string iname()
-    {
-        return itemName;
-    }
+  
 }

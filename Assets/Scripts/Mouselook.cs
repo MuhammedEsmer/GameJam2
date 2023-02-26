@@ -11,10 +11,7 @@ public class Mouselook : MonoBehaviour
     float xRot;
     bool mousedown = false;
     
-    private void Start()
-    {
-        
-    }
+  
 
     private void Update()
     {

@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: Whistle
   m_EditorClassIdentifier: 
   id: 2
-  itemName: Whistle
-  value: 8
+  itemName: "D\xFCd\xFCk"
+  itemInfo: " (Deprem sonras\u0131 afetzedenin g\xF6\xE7\xFCk alt\u0131nda kalmas\u0131
+    durumunda arama ve kurtarma ekipleriyle ileti\u015Fimi noktas\u0131nda d\xFCd\xFCkle
+    ses \xE7\u0131kararak g\xF6\xE7\xFCk alt\u0131ndaki lokasyonunu belli etmesi
+    a\xE7\u0131s\u0131ndan d\xFCd\xFCk olmazsa olmaz bir e\u015Fyad\u0131r.)"
+  value: 3
   icon: {fileID: 963615602, guid: 35aa12384900a214f8c6ddef6e8d89b4, type: 3}
