@@ -18,6 +18,7 @@ public class InventoryManager : MonoBehaviour
     public int point;
     int points;
     [SerializeField] TextMeshProUGUI tmpscore;
+    public float timeRemaining = 10;
 
 
     private void Awake()
@@ -50,16 +51,22 @@ public class InventoryManager : MonoBehaviour
             itemName.text = item.itemName;
             itemIcon.sprite = item.icon;
             
-            
         }
+        
 
         tmpscore.SetText("Toplam puan :"+Convert.ToString(points));
 
+    }
+    private void Update()
+    {
+        if (points > 4)
+        {
 
-
-
+            timeRemaining -= Time.deltaTime;
+            if
+        }
     }
 
-    
-    
+
+
 }
