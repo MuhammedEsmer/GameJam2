@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5812b6970d7f74599b6cfb0eaf7a62, type: 3}
+  m_Name: Gauze
+  m_EditorClassIdentifier: 
+  id: 15
+  itemName: "Gazl\u0131 Bez"
+  itemInfo: "(Kesik yar\u0131k vb gibi durumlarda batikon uygulanmas\u0131n\u0131n
+    ard\u0131ndan yaral\u0131 b\xF6lgeyi temiz bir \u015Fekilde kapatabilmek i\xE7in
+    gereklidir.) "
+  value: 3
+  icon: {fileID: 0}

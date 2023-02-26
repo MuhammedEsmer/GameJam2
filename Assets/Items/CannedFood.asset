@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5812b6970d7f74599b6cfb0eaf7a62, type: 3}
+  m_Name: CannedFood
+  m_EditorClassIdentifier: 
+  id: 13
+  itemName: Konserve
+  itemInfo: "( Afet alan\u0131nda arama kurtarma ekipleri ve yard\u0131mlar ula\u015Fana
+    kadar kullan\u0131labilecek en iyi erzak se\xE7imlerinden biri.) "
+  value: 3
+  icon: {fileID: 0}
