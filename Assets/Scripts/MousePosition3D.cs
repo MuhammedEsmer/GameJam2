@@ -1,13 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
 public class MousePosition3D : MonoBehaviour
 {
-    public GameObject item;
+    public Item item;
+    string itemname;
+    string iteminfo;
+    public TextMeshProUGUI textComponent;
+    public string[] lines;
+    public GameObject dialogimage;
     private void OnMouseOver()
     {
-        item.SetActive(false);
+        dialogimage.SetActive(true);
+        iteminfo = item.itemInfo;
+        itemname = item.itemName;
+        textComponent.text= itemname + iteminfo;
     }
+ 
+  
 }

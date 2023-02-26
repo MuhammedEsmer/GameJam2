@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
+    public GameObject dialogimage;
     public Item Item;
     void Pickup()
     {
         InventoryManager.Instance.Add(Item);
         FindObjectOfType<InventoryManager>().ListItems();
-        Destroy(gameObject);
+        gameObject.SetActive(false);
+        dialogimage.SetActive(false);
     }
 
     private void OnMouseDown()
