@@ -1,6 +1,6 @@
 
 using UnityEngine;
-[CreateAssetMenu(fileName="New Item",menuName = "Item/Create New Item")]
+[CreateAssetMenu(fileName = "New Item", menuName = "Item/Create New Item")]
 public class Item : ScriptableObject
 {
     public int id;
@@ -11,5 +11,12 @@ public class Item : ScriptableObject
 
     public int GetItem()
     { return value; }
-
+    public string itemdesc()
+    {
+        return itemInfo;
+    }
+    public string iname()
+    {
+        return itemName;
+    }
 }
